@@ -1,0 +1,38 @@
+body{
+	margin: 110px;
+	padding:0;
+	outline:0;
+	background-color:#d709f091;
+	color:#ddd;
+	text-align:center;
+	
+}
+.temp{
+	margin-top:10px;
+}
+ul {
+	list-style: none;
+}
+#mainMenu {
+	margin: 10px;
+	width: 1000px;
+	font-family: sans-serif;
+}
+#mainMenu li {
+	display:block;
+	width:162px;
+	float:left;
+	margin-left:2px;
+	border:1px solid #000;
+}
+#mainMenu a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:#fff;
+	color:#009;
+}
+#mainMenu a:hover {
+	background-color:#009;
+	color:#fff;
+}
